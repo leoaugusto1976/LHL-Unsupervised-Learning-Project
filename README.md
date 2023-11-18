@@ -19,9 +19,9 @@ The ultimate goal of the project is to gain insights from the data sets and comm
 ## My Project Overview
 
 ### Notebooks:
-- **Unsupervised Learning - Project.ipynb:** This notebook was initially provided within the Lighthouse Labs Github repository template. It contains the project's outlined steps and guidelines.
+- **[Unsupervised Learning - Project.ipynb](https://github.com/leoaugusto1976/LHL-Unsupervised-Learning-Project/blob/main/notebooks/Unsupervised%20Learning%20-%20Project.ipynb):** This notebook was initially provided within the Lighthouse Labs Github repository template. It contains the project's outlined steps and guidelines.
   
-- **MachineLearning_UnSupervised_Fonseca_Leonardo.ipynb:** I developed this notebook, encompassing all the code, results, interpretations, and conclusions derived from the project's tasks.
+- **[MachineLearning_UnSupervised_Fonseca_Leonardo.ipynb](https://github.com/leoaugusto1976/LHL-Unsupervised-Learning-Project/blob/main/notebooks/MachineLearning_UnSupervised_Fonseca_Leonardo.ipynb):** I developed this notebook, encompassing all the code, results, interpretations, and conclusions derived from the project's tasks.
 
 ### Dataset:
-- **Wholesale_Data.csv:** This CSV file is part of the Lighthouse Labs Github repository template and serves as the dataset for this project.
+- **[Wholesale_Data.csv](https://github.com/leoaugusto1976/LHL-Unsupervised-Learning-Project/blob/main/data/Wholesale_Data.csv):** This CSV file is part of the Lighthouse Labs Github repository template and serves as the dataset for this project.
